@@ -3,7 +3,12 @@
 
 This project presents a sleek and functional analog clock created with HTML, CSS, and JavaScript. The clock not only provides real-time updates for hours, minutes, and seconds but also offers a dynamic user experience with a unique light and dark mode switch.
 
-![Clock Demo](./demo%20clock.png)
+![Clock Demo](./demo%20clock.png)(https://xensen008.github.io/Analog-clock/)
+
+
+## Demo
+The code is hosted for demo purpose
+https://xensen008.github.io/Analog-clock/
 
 ## Authors
 
