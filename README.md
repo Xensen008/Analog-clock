@@ -1,4 +1,3 @@
-
 # Analog Clock Project
 
 This project presents a sleek and functional analog clock created with HTML, CSS, and JavaScript. The clock not only provides real-time updates for hours, minutes, and seconds but also offers a dynamic user experience with a unique light and dark mode switch.
@@ -60,12 +59,12 @@ Contributions are always welcome!
 
 Feel free to contribute by opening issues, suggesting enhancements, or submitting pull requests. Your input is valuable!
 
-Please adhere to this project's `code of conduct`.
 
 
 ## Acknowledgements
 
  - Special thanks to [Font Awesome](https://fontawesome.com/) for providing the icons used in this project.
+ - I thank this [video](https://youtu.be/weZFfrjF-k4?si=d3mtCJHQ4UkljgG7) for helping me build this Project
 
 ## Support
 
