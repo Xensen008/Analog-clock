@@ -53,11 +53,24 @@ Just run the code in Any ide (Vscode if git is installed!)
 - `index.html`: Contains the structure of the clock.
 - `style.css`: Manages the visual presentation and theming.
 - `app.js`: Implements the clock functionality and theme switching.
+
 ## Contributing
 
 Contributions are always welcome!
 
 Feel free to contribute by opening issues, suggesting enhancements, or submitting pull requests. Your input is valuable!
+
+## How to Contribute
+
+If you're interested in contributing to this project, follow these steps:
+
+1. Fork the project.
+2. Create a new branch for your feature: `git checkout -b feature-name`.
+3. Commit your changes: `git commit -m 'Add new feature'`.
+4. Push to the branch: `git push origin feature-name`.
+5. Submit a pull request.
+
+Let's code together! 💻🚀
 
 
 
